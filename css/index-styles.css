@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'calibri', sans-serif;
+    background-color: aqua;
+    padding: 20px;
+}
+
+ul {
+    display: block;
+    padding-left: 10%;
+    list-style-type: circle;
+}
+
+h1 {
+    padding: 20px;
+    text-align: center;
+
+}
+
+p {
+    padding: 15px;
+
+}
+
+h2 {
+    padding: 15px;
+
+}
